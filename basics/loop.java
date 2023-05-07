@@ -13,4 +13,3 @@ public class loop
       System.out.print(num+ " ");
    }
 }
-
