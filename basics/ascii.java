@@ -13,4 +13,3 @@ public class ascii {
       System.out.println("\nASCII Value = " +ascii);
    }
 }
-
